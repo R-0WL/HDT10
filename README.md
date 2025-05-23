@@ -54,4 +54,5 @@ e. Hacer el diagrama UML de clases que se emplean en su programa.
 f. Colocar el programa Java. Incluir el diagrama UML de clases, las pruebas unitarias y el enlace al control de versiones del
 programa.
 
+![dLN1Rjim3BtxAuXSwdOni5sB8MZH3aE1BHYMeXrGzA3PZ2rCbWr9pheD-vXzotviea8dijsqnNAmOfAFV4-av3FhX75ThP8ZkCIrrD80MYTLOnFxJUfM6553heIrvyuP-RLpU9KtUYL_8hnEFEh2-z12QwJEPIiKsYI4mmqQXm_mAm7_os3bqRe4BMfaomTftTjtHOaBGF-qmVoASMaK](https://github.com/user-attachments/assets/f414a8f9-8e4e-432f-be7b-39f7c7682681)
 
