@@ -1,7 +1,3 @@
-En esta carpeta se encuentra el programa realizado en Java.
-
-
-
 Problema:
 A logistics company that ships goods to different locations via a network of warehouses needs to optimize its supply chain to reduce transportation costs and improve delivery times. The company currently uses a simple routing system based on the shortest distance between two points2. However, this approach does not take into account traffic congestion, weather
 conditions, or other factors that may impact the delivery time and cost.
